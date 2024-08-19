@@ -1,0 +1,33 @@
+/* custom.css */
+.employee-grid .x-grid-header-ct {
+    background-color: #4CAF50; /* أخضر */
+}
+
+.employee-grid .x-grid-cell-inner {
+    background-color: #E8F5E9; /* أخضر فاتح */
+}
+
+.customer-grid .x-grid-header-ct {
+    background-color: #2196F3; /* أزرق */
+}
+
+.customer-grid .x-grid-cell-inner {
+    background-color: #E3F2FD; /* أزرق فاتح */
+}
+
+.task-grid .x-grid-header-ct {
+    background-color: #FF5722; /* برتقالي */
+}
+
+.task-grid .x-grid-cell-inner {
+    background-color: #FFCCBC; /* برتقالي فاتح */
+}
+
+.x-grid-cell-inner {
+    color: #000; /* لون النص الأسود */
+}
+/* custom.css */
+.customer-grid .x-panel-header {
+    background-color: #b86b0d; /* لون خلفية العنوان (أزرق) */
+    color: #FFF; /* لون النص (أبيض) */
+}
